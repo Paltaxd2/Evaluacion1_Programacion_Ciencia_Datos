@@ -2,9 +2,9 @@
 Trabajo del DataSet
 
 Integrantes del Equipo
-- Rafael Albornoz
-- Ignacio Condore
-- Joaquin Saavedra
+- Rafael Albornoz - usuario: Paltaxd2 - rama: rafa
+- Ignacio Condore - usuario: igcondor - rama: condorito_testing
+- Joaquin Saavedra - usuario: scJoako - rama: Joaquin
 
 El dataSet probiene de la pagina de https://www.kaggle.com/
 Descripcion : Son datos de venta de un retail que toma las ventas de productos nombrados como "item", considerando
